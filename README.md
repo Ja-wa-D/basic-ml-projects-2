@@ -27,3 +27,13 @@ Build a machine learning model to detect fraudulent credit card transactions usi
         Algorithms: Logistic Regression, Decision Trees, Random Forests
 
         Model evaluation using Precision, Recall, and F1-Score
+
+🚀 How to Run
+
+1️⃣ Clone the repository:
+
+    git clone https://github.com/Ja-wa-D/basic-ml-projects-2.git
+    cd basic-ml-projects-2
+
+2️⃣ Install required libraries
+3️⃣ Open the .ipynb files with Jupyter Notebook or any IDE, and follow along!
