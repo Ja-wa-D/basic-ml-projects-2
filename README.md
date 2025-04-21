@@ -1,33 +1,29 @@
-🎯 Basic ML Projects
+🤖 Basic ML Projects 2
 
-This repository contains simple machine learning projects that focus on fundamental concepts and hands-on practice for beginners.
-Currently, the repository includes:
-💳 Credit Card Fraud Detection
+A collection of beginner-friendly machine learning projects focused on real-world applications like fraud detection, movie genre classification, and customer churn prediction.
+🎬 Movie Genre Classification
 
-This project aims to identify fraudulent transactions from a real-world credit card dataset using supervised learning techniques.
-
-  Dataset: Kaggle - [Fraud Detection] (https://www.kaggle.com/datasets/kartik2112/fraud-detection) 
+Create a machine learning model that predicts the genre of a movie based on its plot summary or textual description.
 
     Techniques used:
 
-        Data preprocessing
+        Text Vectorization (TF-IDF / Word Embeddings)
 
-        Feature scaling
+        Classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines
 
-        Model training using algorithms like Logistic Regression and Random Forest
+        Text preprocessing and feature extraction
 
-        Evaluation using metrics such as Accuracy, Precision, Recall, and F1-Score
+💳 Credit Card Fraud Detection
 
-🎬 Movie Genre Classification
+Build a machine learning model to detect fraudulent credit card transactions using structured data.
 
-A simple machine learning model that classifies movies into their respective genres based on their features.
+  Dataset: Kaggle - [Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection) 
 
-    Focus areas:
 
-        Data cleaning and preprocessing
+    Techniques used:
 
-        Exploratory Data Analysis (EDA)
+        Data preprocessing and balancing (to handle imbalanced datasets)
 
-        Model building using classifiers
+        Algorithms: Logistic Regression, Decision Trees, Random Forests
 
-        Genre prediction using text-based or feature-based inputs
+        Model evaluation using Precision, Recall, and F1-Score
