@@ -36,4 +36,5 @@ Build a machine learning model to detect fraudulent credit card transactions usi
     cd basic-ml-projects-2
 
 2️⃣ Install required libraries
+
 3️⃣ Open the .ipynb files with Jupyter Notebook or any IDE, and follow along!
