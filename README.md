@@ -6,7 +6,7 @@ Currently, the repository includes:
 
 This project aims to identify fraudulent transactions from a real-world credit card dataset using supervised learning techniques.
 
-  Dataset: Kaggle - (Fraud Detection) [https://www.kaggle.com/datasets/kartik2112/fraud-detection]
+  Dataset: Kaggle - [Fraud Detection] (https://www.kaggle.com/datasets/kartik2112/fraud-detection) 
 
     Techniques used:
 
